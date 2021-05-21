@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f5143c6-f9aa-4098-a515-c8f2c5f134cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/DrawerContainer/DrawerContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/DrawerContainer/DrawerContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/HomeScreen.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1spG6S2HMLMC2tnsdMYvFlO3Pey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f5143c6-f9aa-4098-a515-c8f2c5f134cd" name="Default Changelist" comment="" />
+      <created>1621561941145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621561941145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="120" width="920" height="600" key="AVDManager" timestamp="1621564812706">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="348" y="120" width="920" height="600" key="AVDManager/0.0.1536.834@0.0.1536.834" timestamp="1621564812706" />
+    <state x="466" y="193" key="run.anything.popup" timestamp="1621562043483">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="466" y="193" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1621562043483" />
+    <state x="471" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1621562297126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="471" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1621562297126" />
+  </component>
+</project>
